@@ -1,0 +1,23 @@
+commit f6bd5ddf7ca5b904ba133420ec9fd40b4adc0a8b (HEAD -> feature, origin/master, master)
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Sat Oct 31 20:53:54 2020 +0100
+
+    Even more readme formatting
+
+commit ae1f0911db1baafa29ea9db9b02622187630154b
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Sat Oct 31 20:51:58 2020 +0100
+
+    more readme formatting
+
+commit 12247f1756ba9e8e323571117d000a808d135bb7
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Sat Oct 31 20:50:50 2020 +0100
+
+    readme formatting
+
+commit 2b869ff3c75070c481cccd760a3b3fb54266d833
+Author: Johan Astrom <johan.astrom89@gmail.com>
+Date:   Sat Oct 31 20:48:23 2020 +0100
+
+    Added readme and gitignore.
