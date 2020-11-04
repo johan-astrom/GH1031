@@ -1,2 +1,2 @@
 Text doc for Java project.
-Log files 
+Log files will be inserted.
