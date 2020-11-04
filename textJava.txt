@@ -1,1 +1,2 @@
-Text doc for Java project
+Text doc for Java project.
+Log files 
