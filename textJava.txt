@@ -1,2 +1,3 @@
 Text doc for Java project.
-Log files will be inserted once project running.
+Log files will be inserted once project commited.
+061120
