@@ -1,4 +1,4 @@
 Text doc for Java project.
-Log files will be inserted once project commited.
+Git log files will be inserted once project commited.
 06/11 2020
 By JÅ
