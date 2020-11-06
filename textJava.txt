@@ -1,3 +1,4 @@
 Text doc for Java project.
 Log files will be inserted once project commited.
-061120
+06/11 2020
+By JÅ
