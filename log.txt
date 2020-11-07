@@ -1,3 +1,5 @@
+LOG FILES IN ORDER BELOW
+
 commit f6bd5ddf7ca5b904ba133420ec9fd40b4adc0a8b (HEAD -> feature, origin/master, master)
 Author: Johan Astrom <johan.astrom89@gmail.com>
 Date:   Sat Oct 31 20:53:54 2020 +0100
