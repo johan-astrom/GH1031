@@ -1,4 +1,5 @@
 Text doc for Java project.
 Git log files will be inserted once project commited.
-06/11 2020
+29
+29/11 2020
 By JÅ
